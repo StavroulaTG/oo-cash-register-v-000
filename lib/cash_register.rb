@@ -23,7 +23,7 @@ class CashRegister
     end
   end
 
-  def items
+  def items[]
     @items 
   end
 end
